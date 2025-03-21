@@ -16,5 +16,5 @@ Ce projet vise à prédire l'état d'une pompe industrielle en utilisant un mod�
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/votre-utilisateur/maintenance-predictive.git
+   git clone https://github.com/mohamedafdailat/TP_IA2.git
    cd maintenance-predictive
